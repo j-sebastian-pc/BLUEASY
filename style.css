@@ -23,7 +23,6 @@ header {
     justify-content: space-around;
     flex-wrap: wrap;
     width: 100%;
-    position: fixed;
     flex-wrap: wrap;
 }
 h1 {
